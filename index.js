@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `DH-VINI connected ✅\n\nPREFIX: ${prefix}`;
       await vini.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `images/IMG-20250727-WA0014.jpg` },
         caption: up
       });
 
